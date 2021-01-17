@@ -6,7 +6,7 @@ Additionally, I am very interested in the long term effects of soil health after
 
 My project has the unique ability to be able to help home gardeners keep their plants as healthy as possible (by notifying them when the temperature is too hot/cold or when the soil is too dry) and save them a lot of money in the long run. This can be done by checking if the soil is too wet and notifying the user if that is the case. Ideally this will also save money on home growers for buying compost and fertilizer (next section)
 
-###Long Term Goal
+### Long Term Goal
 For most plants, Nitrogen is what allows them to grow healthier (for instance, most fertilizer is primarily nitrogen).
 According to a couple papers I have read, the rate at which moisture is lost from the soil is dependent on a couple of factors, most notably microbe content and nitrogen levels.
 Currently, a soil sample examination costs at least $1200 and go to upwards of $5000. That test is recommended once every few years and for a home grower, that is a substantial cost.
